@@ -11,3 +11,6 @@ git status
 ssh-add <dir>
 git push
 
+####
+Keep testing commit and push new content (6/10/2022)
+
