@@ -7,4 +7,7 @@ First testing (5/10/2022)
 git clone <link>
 git status
 
+### Testing Push
+ssh-add <dir>
+git push
 
